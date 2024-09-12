@@ -1,0 +1,20 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  header {
+    background-color: #343a40;
+  }
+  
+  h1, h2 {
+    color: #ffffff;
+  }
+  
+  .sobre-corrida img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+  }
